@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+  border: 1px solid black;
+  box-shadow:rgba(255,0,0,0.6);
+
+  box-shadow: 0 0 0 0.5;
+}
+h1 {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.link-active {
+  text-decoration: underline;
+}
+.link {
+  background-color: white;
+}
+.img{
+  height: 50px;
+  width: 50px;
+}
